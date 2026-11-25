@@ -6,6 +6,11 @@ This repository is a collection of Jupyter Notebooks that profile and benchmark 
 
 The scaling of the configurations with the number of cores is covered by the [ACCESS-NRI Model Scaling Repository](https://github.com/ACCESS-NRI/access-model-scaling/). The studies here usually start from what a scaling notebook found, and look into it in more detail.
 
+Currently the repository includes the following studies:
+
+* [ACCESS-OM3](ACCESS-OM3)
+  * [dev-MC_100km_jra_ryf: CICE6 cores and block sizes](ACCESS-OM3/dev-MC_100km_jra_ryf-cice6_block_sizes.ipynb)
+
 ## Where do I ask questions?
 
 We welcome feedback and contributions through the [ACCESS-Hive forum](https://forum.access-hive.org.au/). Please create a topic in the #technical category and [follow the guidelines for requesting help from ACCESS-NRI](https://forum.access-hive.org.au/t/access-help-and-support/908) should you need it.
